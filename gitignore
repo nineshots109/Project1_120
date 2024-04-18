@@ -1,0 +1,38 @@
+# Virtual Environment
+venv
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# IDE/Editor Specific Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Configuration Files
+.env
+
+# Logs and Temporary Files
+*.log
+*.swp
+
+
+.webassets-cache/
+webassets-external/
+.DS_Store
+*.pyc
+*.pyo
+env
+venv
+*.env
+env*
+dist
+*.egg
+*.egg-info
+*.sqlite
+.idea
+dump.rdb
+.vscode/
+.history/
