@@ -5,11 +5,14 @@ This is Project #1 - My First Flask App - Personal Portfolio Page
 
 
 Commands:
-Type the following in Github Codespaces 
+Type the following in Github Codespaces :
 
 python -m venv venv
+
 source venv/bin/activate
+
 pip install Flask
+
 python app.py
 
 
